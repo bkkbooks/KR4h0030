@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR4h0030_000.yaml, hash: 'sha256:222fb8f465b09e036f62dd7ac88b90949a5838bb0cce77968052f5b857181cd9'}
   - {seq: 1, filename: KR4h0030_001.yaml, hash: 'sha256:d4e046b15f10abad14c5821ebfe08dc9c1134bcd2f1f46868022f57ebb4ce732'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4h0030_000.markers.yaml, hash: 'sha256:34cce3492c0ce0029027d8bd60a67382183c69800b74b09f7cf2030d160296ee'}
-  - {seq: 1, role: markers, filename: assets/KR4h0030_001.markers.yaml, hash: 'sha256:ec88329875655f785ded8126f1d0543bcc0b72076c89fb98ae9cc646edeb3fdf'}
+  - {seq: 0, role: markers, filename: assets/KR4h0030_000.markers.yaml, hash: 'sha256:fe4d8453f7931ca3656fc9552ce1cc859460416f6b4d2d08ddce7c9a3dc925af'}
+  - {seq: 1, role: markers, filename: assets/KR4h0030_001.markers.yaml, hash: 'sha256:73f0250372dba15bd0bc04a1502a9791fc448c601d437b8e55282b742ba03b14'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 三劉家集
   type: section
   level: 1
-hash: sha256:bf943b7abf30f6af3507409ce6a0e27ed0376d61ef4c54c5ade35ed828fc8eac
+hash: sha256:3925100a97a414bd1a3884f2f559c2faedc803829e4817c210fe58884aae3006
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
